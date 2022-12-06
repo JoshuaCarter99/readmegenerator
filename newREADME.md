@@ -12,7 +12,7 @@ Just a test
 ## Installation 
 Just testin
 ## Usage
-Just a test
+JUST A TEST
 ## License
 This project is licensed under MIT 
 ## Test
