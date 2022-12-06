@@ -10,7 +10,7 @@ Just a test
  * [Test](#test)
  * [Info](#information)
 ## Installation 
-Just testin
+Just testin'
 ## Usage
 JUST A TEST
 ## License
