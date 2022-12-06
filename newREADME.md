@@ -10,9 +10,9 @@ Just a test
  * [Test](#test)
  * [Info](#information)
 ## Installation 
-Test install
+Just testin
 ## Usage
-Just for testin
+Just a test
 ## License
 This project is licensed under MIT 
 ## Test

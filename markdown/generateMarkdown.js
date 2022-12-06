@@ -1,5 +1,3 @@
-// TODO: Create a function to generate markdown for README ${renderBadge(data.license)}
-
 const generateMarkdown = data => {
     
   return `# ${data.title}
