@@ -37,6 +37,9 @@ UPenn Full Stack Coding Module 9: NODEJS
 Repo: 
 https://github.com/JoshuaCarter99/readmegenerator
 
+Tutorial:
+https://youtu.be/PSM_ANaPZjo
+
 ## License
 
 MIT License
